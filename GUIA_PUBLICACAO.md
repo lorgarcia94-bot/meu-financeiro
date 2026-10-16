@@ -13,3 +13,4 @@
 **Importante:** alterações são enviadas à nuvem ao clicar nos controles de salvar, mas a V2 não faz mesclagem simultânea de edições em dois dispositivos; evite editar em ambos ao mesmo tempo e atualize a página ao trocar de dispositivo. Mantenha backups periódicos.
 
 **Não publique seus PDFs, extratos, chaves secretas, JSON de backup ou senhas no projeto.**
+Publicação inicial do Meu Financeiro.
